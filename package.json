@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Junior Web Developer Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/css/tailwind.css -o ./public/assets/css/style.css --watch",
+    "build": "tailwindcss -i ./src/css/tailwind.css -o ./public/assets/css/style.css --minify"
+  },
+  "keywords": [
+    "portfolio",
+    "php",
+    "tailwindcss"
+  ],
+  "author": "Lorem Ipsum",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32"
+  }
+}
+
