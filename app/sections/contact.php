@@ -73,7 +73,6 @@
                         :disabled="submitting"
                         class="w-full px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-blue-400 disabled:cursor-not-allowed transition-colors font-medium shadow-md hover:shadow-lg">
                         <span x-show="!submitting">Send Message</span>
-                        <span x-show="submitting">Sending...</span>
                     </button>
 
                     <div x-show="message" 
@@ -81,16 +80,6 @@
                          :class="messageType === 'success' ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'"
                          class="text-center text-sm font-medium"></div>
                 </form>
-            </div>
-
-            <div class="mt-8 text-center">
-                <p class="text-gray-600 dark:text-gray-400 mb-4">Or reach out directly:</p>
-                <div class="flex justify-center space-x-6">
-                    <a href="mailto:lorem.ipsum@example.com" 
-                       class="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors font-medium">
-                        lorem.ipsum@example.com
-                    </a>
-                </div>
             </div>
         </div>
     </div>

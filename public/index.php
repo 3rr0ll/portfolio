@@ -24,6 +24,7 @@ include __DIR__ . '/../app/sections/hero.php';
 include __DIR__ . '/../app/sections/about.php';
 include __DIR__ . '/../app/sections/skills.php';
 include __DIR__ . '/../app/sections/projects.php';
+include __DIR__ . '/../app/sections/certificates.php';
 include __DIR__ . '/../app/sections/contact.php';
 
 // Include footer

@@ -22,7 +22,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
             <!-- Logo -->
             <div class="flex-shrink-0">
                 <a href="/" class="text-xl font-bold text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                    Lorem Ipsum
+                    CEP
                 </a>
             </div>
 

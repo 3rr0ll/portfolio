@@ -15,17 +15,13 @@
                 </p>
                 <p class="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
                     I specialize in backend development with PHP and Laravel, working with MySQL databases to build 
-                    robust and scalable applications. On the frontend, I enjoy working with Tailwind CSS and Bootstrap 
+                    scalable applications. On the frontend, I enjoy working with Tailwind CSS and Bootstrap 
                     to create responsive and user-friendly interfaces.
                 </p>
                 <p class="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
                     I'm always eager to learn new technologies and best practices. I believe in writing clean, 
                     maintainable code and following industry standards. My goal is to continue growing as a developer 
                     and contribute to meaningful projects.
-                </p>
-                <p class="text-gray-700 dark:text-gray-300 leading-relaxed">
-                    When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, 
-                    and continuously improving my skills through practice and learning.
                 </p>
             </div>
         </div>

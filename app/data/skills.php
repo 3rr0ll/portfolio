@@ -4,7 +4,6 @@ return [
     'Backend Development' => [
         'PHP',
         'Laravel Framework',
-        'Object-Oriented Programming',
         'RESTful API Development',
         'MVC Architecture'
     ],
@@ -21,14 +20,13 @@ return [
         'Tailwind CSS',
         'Bootstrap',
         'Responsive Design',
-        'JavaScript (ES6+)'
+        'JavaScript'
     ],
     'Tools & Technologies' => [
         'Git & Version Control',
-        'Composer',
         'VS Code',
         'Postman',
-        'NPM',
-        'Command Line Interface'
+        'Cursor',
+        'GitHub'
     ]
 ];
