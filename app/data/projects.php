@@ -2,18 +2,18 @@
 
 return [
     [
-        'title' => 'E-Commerce Management System',
-        'description' => 'A full-featured e-commerce platform built with Laravel and MySQL. Includes product management, user authentication, shopping cart functionality, and order processing. Features a responsive design using Tailwind CSS.',
-        'tech' => ['Laravel', 'PHP', 'MySQL', 'Tailwind CSS', 'JavaScript'],
+        'title' => 'SoloDev: Your Self-Development Assistance with SMS Notifications and Data Mining',
+        'description' => 'This project is a comprehensive fitness platform that helps gym enthusiasts learn proper workout techniques, track personal fitness goals through automated SMS reminders, and receive personalized workout recommendations based on analyzed user progress data.',
+        'tech' => [ 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
         'link' => '#',
         'github' => '#'
     ],
     [
-        'title' => 'Task Management Application',
-        'description' => 'Web-based task management tool for organizing projects and daily activities. Built with vanilla PHP and MySQL database. Features drag-and-drop functionality, user authentication, and real-time updates.',
-        'tech' => ['PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
-        'link' => '#',
-        'github' => '#'
+        'title' => 'FranchTrike: A Web App for Tricycle Franchising in Padre Garcia, Batangas',
+        'description' => 'This project is a web-based application designed to improve the tricycle franchising process in Padre Garcia, Batangas by reducing administrative workload, improving transparency, managing franchise documents through Cloudinary integration, and providing an intuitive dashboard for real-time tracking of applications, payments, and vehicle registrations.',
+        'tech' => ['Laravel', 'MySQL', 'Tailwind CSS', 'Cloudinary','JavaScript'],
+        'link' => 'https://franchtrike.online',
+        'github' => 'https://github.com/3rr0ll/FranchTrike'
     ]
 
 ];
